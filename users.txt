@@ -1,0 +1,4 @@
+tt : tt
+Haşmetli tahir : t
+fatma : f
+Ege Garibansoy : e

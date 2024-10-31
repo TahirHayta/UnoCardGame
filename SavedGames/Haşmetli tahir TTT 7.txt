@@ -1,0 +1,148 @@
+Haşmetli tahir
+7
+Counterclockwise
+deckToGiveCards:
+Blue tahir reverse tahir -1
+Red tahir skip tahir -1
+Red tahir number tahir 6
+Blue tahir number tahir 6
+Blue tahir number tahir 8
+Blue tahir number tahir 0
+Blue tahir number tahir 1
+Blue tahir number tahir 1
+Blue tahir number tahir 5
+Blue tahir number tahir 2
+Blue tahir number tahir 9
+Blue tahir +2 tahir -1
+Red tahir wild tahir -1
+Red tahir number tahir 2
+Blue tahir number tahir 2
+Blue tahir number tahir 3
+Green tahir number tahir 3
+Yellow tahir number tahir 3
+Yellow tahir reverse tahir -1
+TTT
+deckToTakeCards:
+Yellow tahir skip tahir -1
+Yellow tahir number tahir 8
+Yellow tahir number tahir 5
+Green tahir number tahir 7
+Yellow tahir number tahir 0
+Green tahir number tahir 5
+Blue tahir number tahir 5
+Yellow tahir number tahir 5
+Black tahir +4 tahir -1
+Blue tahir skip tahir -1
+Blue tahir number tahir 7
+Yellow tahir reverse tahir -1
+Blue tahir number tahir 3
+Yellow tahir number tahir 2
+Red tahir number tahir 8
+Red tahir +2 tahir -1
+Yellow tahir +2 tahir -1
+Yellow tahir number tahir 4
+Green tahir number tahir 0
+Green tahir number tahir 8
+Black tahir wild tahir -1
+Black tahir wild tahir -1
+Yellow tahir number tahir 7
+Green tahir number tahir 5
+Blue tahir number tahir 9
+Green tahir number tahir 9
+Green tahir skip tahir -1
+Red tahir number tahir 2
+Black tahir +4 tahir -1
+Yellow tahir number tahir 9
+Red tahir number tahir 3
+Red tahir number tahir 4
+Red tahir +2 tahir -1
+Green tahir reverse tahir -1
+Blue tahir +2 tahir -1
+Red tahir number tahir 9
+Blue tahir reverse tahir -1
+Green tahir number tahir 7
+Blue tahir number tahir 6
+Red tahir number tahir 9
+Yellow tahir number tahir 9
+Black tahir +4 tahir -1
+Yellow tahir number tahir 1
+Red tahir number tahir 5
+Yellow tahir number tahir 2
+Blue tahir number tahir 4
+Black tahir +4 tahir -1
+TTT
+Player's cards:
+Green tahir number tahir 4
+Green tahir number tahir 9
+Black tahir wild tahir -1
+Blue tahir number tahir 8
+TTT
+Bot0's cards:
+Red tahir reverse tahir -1
+Red tahir number tahir 7
+Red tahir number tahir 1
+Yellow tahir number tahir 7
+Red tahir number tahir 1
+TTT
+Bot1's cards:
+Red tahir reverse tahir -1
+Green tahir skip tahir -1
+Red tahir number tahir 6
+Green tahir reverse tahir -1
+Yellow tahir +2 tahir -1
+TTT
+Bot2's cards:
+Green tahir +2 tahir -1
+Red tahir number tahir 7
+Blue tahir number tahir 4
+Yellow tahir number tahir 4
+Green tahir number tahir 4
+TTT
+Bot3's cards:
+Yellow tahir number tahir 6
+Yellow tahir number tahir 8
+Red tahir number tahir 5
+Green tahir number tahir 6
+Yellow tahir number tahir 6
+TTT
+Bot4's cards:
+Green tahir number tahir 8
+Green tahir number tahir 2
+Blue tahir number tahir 7
+Yellow tahir number tahir 3
+Red tahir number tahir 8
+TTT
+Bot5's cards:
+Green tahir number tahir 3
+Green tahir number tahir 1
+Yellow tahir skip tahir -1
+Red tahir skip tahir -1
+Red tahir number tahir 3
+TTT
+Bot6's cards:
+Red tahir number tahir 0
+Green tahir number tahir 1
+Green tahir number tahir 6
+Green tahir +2 tahir -1
+Red tahir number tahir 4
+Blue tahir skip tahir -1
+Green tahir number tahir 2
+Yellow tahir number tahir 1
+TTT
+events:
+Haşmetli tahir played Blue number 6
+Reşit played Blue number 8
+Hamza played Blue number 0
+Doğan played Blue number 1
+Aylanur played Blue number 1
+Abdulrezzak played Blue number 5
+Andrew played Blue number 2
+Vahideh played Blue number 9
+Haşmetli tahir played Blue +2 20
+Hamza played Black wild 50
+Doğan played Red number 2
+Aylanur played Blue number 2
+Abdulrezzak played Blue number 3
+Andrew played Green number 3
+Vahideh played Yellow number 3
+Haşmetli tahir played Yellow reverse 20

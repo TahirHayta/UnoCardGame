@@ -1,0 +1,126 @@
+Ege Garibansoy
+1
+Clockwise
+deckToGiveCards:
+Yellow tahir number tahir 2
+Green tahir +4 tahir -1
+Green tahir +2 tahir -1
+Green tahir number tahir 1
+Green tahir number tahir 0
+Green tahir number tahir 3
+Green tahir number tahir 7
+TTT
+deckToTakeCards:
+Red tahir number tahir 7
+Yellow tahir number tahir 9
+Yellow tahir reverse tahir -1
+Yellow tahir skip tahir -1
+Yellow tahir number tahir 9
+Red tahir number tahir 3
+Blue tahir number tahir 6
+Yellow tahir number tahir 2
+Yellow tahir reverse tahir -1
+Green tahir number tahir 3
+Yellow tahir number tahir 4
+Red tahir reverse tahir -1
+Red tahir number tahir 9
+Black tahir wild tahir -1
+Blue tahir number tahir 7
+Green tahir number tahir 6
+Blue tahir number tahir 5
+Red tahir number tahir 5
+Green tahir number tahir 1
+Blue tahir reverse tahir -1
+Green tahir number tahir 9
+Yellow tahir number tahir 0
+Green tahir reverse tahir -1
+Green tahir number tahir 6
+Red tahir number tahir 3
+Yellow tahir number tahir 7
+Yellow tahir number tahir 1
+Blue tahir number tahir 9
+Red tahir number tahir 1
+Green tahir skip tahir -1
+Blue tahir number tahir 1
+Blue tahir number tahir 6
+Yellow tahir number tahir 6
+Red tahir number tahir 8
+Red tahir number tahir 8
+Blue tahir +2 tahir -1
+Red tahir number tahir 4
+Black tahir +4 tahir -1
+Blue tahir skip tahir -1
+Blue tahir number tahir 4
+Yellow tahir number tahir 4
+Blue tahir skip tahir -1
+Green tahir number tahir 8
+Blue tahir number tahir 9
+Red tahir number tahir 4
+Green tahir number tahir 7
+Yellow tahir number tahir 8
+Blue tahir number tahir 7
+Green tahir number tahir 2
+Green tahir number tahir 9
+Blue tahir number tahir 5
+Black tahir +4 tahir -1
+Yellow tahir +2 tahir -1
+Red tahir +2 tahir -1
+Blue tahir +2 tahir -1
+Blue tahir number tahir 1
+Black tahir wild tahir -1
+Red tahir number tahir 9
+Yellow tahir number tahir 5
+Yellow tahir number tahir 1
+Red tahir skip tahir -1
+Yellow tahir +2 tahir -1
+Yellow tahir number tahir 8
+Black tahir +4 tahir -1
+Yellow tahir number tahir 5
+Blue tahir reverse tahir -1
+Red tahir number tahir 1
+Yellow tahir number tahir 3
+Blue tahir number tahir 2
+Green tahir number tahir 2
+Blue tahir number tahir 3
+Green tahir number tahir 5
+Blue tahir number tahir 2
+Red tahir skip tahir -1
+Green tahir number tahir 4
+Yellow tahir skip tahir -1
+Green tahir number tahir 8
+Red tahir number tahir 6
+Blue tahir number tahir 3
+Black tahir wild tahir -1
+Green tahir number tahir 4
+Green tahir reverse tahir -1
+Black tahir wild tahir -1
+Red tahir number tahir 2
+Yellow tahir number tahir 6
+Blue tahir number tahir 0
+Red tahir number tahir 6
+TTT
+Player's cards:
+Blue tahir number tahir 4
+Blue tahir number tahir 8
+Red tahir number tahir 5
+TTT
+Bot0's cards:
+Red tahir number tahir 7
+Red tahir number tahir 2
+Red tahir reverse tahir -1
+Green tahir +2 tahir -1
+Yellow tahir number tahir 3
+Yellow tahir number tahir 7
+Green tahir number tahir 5
+Red tahir number tahir 0
+Red tahir +2 tahir -1
+Green tahir skip tahir -1
+Blue tahir number tahir 8
+TTT
+events:
+Ege Garibansoy played Black +4 50
+Ege Garibansoy played Green +2 20
+Ege Garibansoy played Green number 1
+Reşit played Green number 0
+Ege Garibansoy played Green number 3
+Reşit played Green number 7

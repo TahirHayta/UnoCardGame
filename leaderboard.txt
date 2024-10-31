@@ -1,0 +1,4 @@
+tt , 11 , 28 , 39 , 793
+Haşmetli tahir , 5 , 2 , 7 , 400
+fatma , 15 , 2 , 17 , 2300
+Ege Garibansoy , 1 , 999 , 1000 , 10
